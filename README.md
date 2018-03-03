@@ -1,3 +1,4 @@
+Welcome to the A-user-authentication-system wiki!
 
 # A-user-authentication-system
 
@@ -21,4 +22,12 @@ Later on, we will see this landing page
 
 ![](https://github.com/Muhaiminur/A-user-authentication-system/blob/master/Landing%20page.PNG)
 
+### This is the Login Page
+![](https://github.com/Muhaiminur/REACT-NATIVE-A-user-authentication-system/blob/master/LOGIN%20PAGE.PNG)
 
+### This is the Registration Page
+![](https://github.com/Muhaiminur/REACT-NATIVE-A-user-authentication-system/blob/master/REGISTRATION%20PAGE.PNG)
+
+## This is the Total Work
+
+![](https://github.com/Muhaiminur/REACT-NATIVE-A-user-authentication-system/blob/master/ASSESMENT%20QUESTION.PNG)
